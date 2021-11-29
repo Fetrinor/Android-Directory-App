@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">201813709032_vize_odevi</string>
+    <string name="Giris_Ad">Yusuf Can AKSOY</string>
+    <string name="Giris_No">201813709032</string>
+    <string name="btn_rehbertomesaj">SMS Ekrani</string>
+    <string name="rb_is">İş</string>
+    <string name="rb_arkadas">Arkadaş</string>
+    <string name="rb_akraba">Akraba</string>
+    <string name="sms_mesaj">Gönder</string>
+
+</resources>
